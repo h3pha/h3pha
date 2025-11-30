@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/red-moon-4k-dark-forest-w08q62g6g2g6g2g6.jpg" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/h3pha/h3pha/blob/main/banner.png?raw=true" width="100%" style="border-radius: 10px;" />
 
   <h1 align="center">H3pha 🌑</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F73939&center=true&vCenter=true&width=435&lines=sudo+apt+install+femboy-os;GMod+Server+Owner+%28Project+ATLAS%29;CS2+Aim+God+%26+Lua+Dev;Owned+by+him+%E2%99%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F73939&center=true&vCenter=true&width=435&lines=sudo+apt+install+femboy-os;CS2+Aim+God+%26+Lua+Dev" alt="Typing SVG" />
   </a>
 </div>
 

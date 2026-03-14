@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://github.com/h3pha/h3pha/blob/main/banner.png?raw=true" width="100%" style="border-radius: 10px;" />
 
-  <h1 align="center">H3pha 🌑</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F73939&center=true&vCenter=true&width=435&lines=sudo+apt+install+femboy-os;CS2+Player+%26+Lua+Dev" alt="Typing SVG" />
-  </a>
+  <h1 align="center">Hepha</h1>
 </div>
 
 <br/>
@@ -13,12 +8,12 @@
 ### 🖥️ Terminal _ □ ×
 
 ```yaml
-user: h3pha
-status: locked 🔒
-os: femboy-os (arch-based)
-hearts_collected: [boyfriend, cs2, assassins_creed]
-current_task: learning GLua & rushing B
-warning: touch my code or my bf and i bite :3
+user: hepha
+status: status.
+os: uhhh the blue square
+hearts_collected: Assassin's Creed.
+current_task: nothing basically
+warning: yes
 assistant: Gemini ✨
 ```
 <div align="center"> <h3>🛠️ Tech Stack & Arsenal</h3>
